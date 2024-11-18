@@ -1,0 +1,12 @@
+.container {
+    border: 1px solid red;
+    background-color: aqua;
+}
+
+.col {
+    border: 1px solid black;
+}
+
+nav ul li {
+    display: inline-block;
+}
